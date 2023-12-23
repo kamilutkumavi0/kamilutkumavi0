@@ -2,7 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 Software Dev. 
 -------------
-I'm currently working on a interactive playground for education procect.* 🌍  I'm based in Konya/Turkey* ✉️  You can contact me at [kamilutkumavi0@gmail.com](mailto:kamilutkumavi0@gmail.com)* 🧠  I'm learning Rust* 🤝  I'm open to collaborating on interesting project* ⚡  If I wrote a novel, I would writen in Rust
+I'm currently working on a interactive playground for education procect.*
+🌍 I'm based in Konya/Turkey* 
+✉️  You can contact me at [kamilutkumavi0@gmail.com](mailto:kamilutkumavi0@gmail.com)* 
+🧠  I'm learning Rust* 
+🤝  I'm open to collaborating on interesting project* 
+⚡  If I wrote a novel, I would writen in Rust
 
 ### Skills
 
