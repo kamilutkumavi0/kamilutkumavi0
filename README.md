@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@kamilutkumavi0&theme=default" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilutkumavi0&theme=github" alt="Layout with last medium posts"  />
 </div>
 
 ###
